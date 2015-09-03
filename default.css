@@ -99,7 +99,7 @@ hr {
 
 #logo h1, #logo p {
 	margin: 0;
-	padding: 10px;
+	padding: 0px;
 }
 
 #logo h1 {
@@ -402,8 +402,21 @@ hr {
 
 
 
+.facebook{
+    height: 590px;
+    width: 150px;
+}
 
 
-
-
+#moodular {
+	overflow: hidden;
+}
+#moodular, #moodular li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 100%;
+    height: 250px;
+}
+ 
 
